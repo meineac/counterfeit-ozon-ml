@@ -1,4 +1,4 @@
-# counterfeit-ozon-ml
+# COUNTERFEIT DETECTING MODEL
 
 ## Структура проекта
 
