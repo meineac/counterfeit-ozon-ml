@@ -3,3 +3,10 @@
 
 # Python
 .venv/
+
+# Cached data
+notebooks/charts
+
+# Data
+data/processed
+data/raw

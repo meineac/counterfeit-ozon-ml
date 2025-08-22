@@ -1,26 +1,26 @@
 # COUNTERFEIT DETECTING MODEL
 
-## Структура проекта
+## Project structure
 
 ```
 project_root/
-├── artifacts/             # <-- НАША НОВАЯ ПАПКА для графиков, отчетов и т.д.
+├── artifacts/             # <-- MODELS ARTIFACTS FOLDER
 │
-├── data/                  # Данные
+├── data/                  # Data
 │   ├── raw/
 │   └── processed/
 │
-├── notebooks/             # Ноутбуки для исследований
+├── notebooks/             # Research notebooks
 │
-├── src/                   # Основной исходный код
+├── src/                   # Main source code
 │
-├── models/                # Сохраненные финальные модели
+├── models/                # Saved final models
 │
-├── reports/               # Презентации и финальные отчеты
+├── reports/               # Presentations and final reports
 │
-├── mlruns/                # Папка, управляемая MLflow для логирования
+├── mlruns/                # Folder managed by MLflow for logging
 │
-├── requirements.txt       # Зависимости проекта
-├── Dockerfile             # Файл для сборки контейнера
-└── README.md              # Инструкция
+├── requirements.txt       # Project dependencies
+├── Dockerfile             # File to build the container
+└── README.md              # Instructions
 ```
