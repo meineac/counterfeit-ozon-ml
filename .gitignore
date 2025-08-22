@@ -1,6 +1,6 @@
 # VS Code
 .vscode/
-
+counterfeit-ozon-ml.code-workspace
 # Python
 .venv/
 
@@ -10,3 +10,4 @@ notebooks/charts
 # Data
 data/processed
 data/raw
+
