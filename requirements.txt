@@ -5,3 +5,4 @@ seaborn
 pyarrow
 scikit-learn
 lightgbm
+rapidfuzz
