@@ -7,4 +7,3 @@ scikit-learn
 lightgbm
 rapidfuzz
 datetime
-requests
